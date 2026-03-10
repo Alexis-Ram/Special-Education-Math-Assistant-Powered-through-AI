@@ -1,2 +1,2 @@
-# Special-Education-Math-Assistant-Powered-through-AI
-A website that will help the user to study more efficiently based on their needs and make learning more accommodatable. for the users to learn. 
+# Codered-Special-Education-Math-Assistant
+Our tool takes in a math textbook and automatically creates practice problems, visual aids (charts, graphs), and quick summaries. It includes text-to-speech support, helping students with ADHD, dyslexia, and auditory/visual learning needs stay engaged and understand faster and more!
